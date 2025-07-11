@@ -18,8 +18,6 @@ Welcome to **Nexora AI** – your personal voice assistant powered by Python and
 - 🔍 **Nexora Knowledge Base**  
 - 🎧 **Intro Music & Voice Greetings**
 
-- **NOTE:- MAKE THE FILES Questions.py, commands.py and music_lib.py according to yourself. In them make a dict and add the info you want according to you.**
-
 ---
 
 ## 🚀 Getting Started
