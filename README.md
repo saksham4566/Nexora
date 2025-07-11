@@ -17,6 +17,7 @@ Welcome to **Nexora AI** – your personal voice assistant powered by Python and
 - 🔐 **Password-Protected Login System**  
 - 🔍 **Nexora Knowledge Base**  
 - 🎧 **Intro Music & Voice Greetings**
+- **NOTE: THIS CODE ONLY RUNS ON WINDOWS**
 
 ---
 
